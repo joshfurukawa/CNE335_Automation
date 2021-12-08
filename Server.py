@@ -7,4 +7,5 @@ class Server:
 
     def ping(self):
         # TODO - Use os module to ping the server
+
         return
